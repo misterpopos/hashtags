@@ -24,6 +24,8 @@
 
 #multithreading
 
+#memory_management
+
 #fundamentals
 
 #docs
